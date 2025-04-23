@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Local test/output files
+*.sqlite3
+*.db
+*.json
